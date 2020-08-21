@@ -1,0 +1,59 @@
+header{
+    text-align: center;
+    background: lightgray;
+    padding: 20px 0;
+}
+
+.caixa{
+    position: relative;
+    width:940px;
+    margin: 0 auto;
+}
+
+main{
+    background: lightgray;
+    position: relative;
+    width:940px;
+    margin: 0 auto;
+    padding: 2px 0;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background: lightgray;
+    position: relative;
+    width:940px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.links{
+    color: #000000;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    text-transform: uppercase;
+    
+}
+
+table{
+    margin: 20px 0 40px;
+    text-align: center;
+    padding-left: 300px;
+
+}
+
+thead{
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th{
+    border:1px solid #000000;
+    padding: 8px 15px;
+}

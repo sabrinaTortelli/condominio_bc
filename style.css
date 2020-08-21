@@ -1,0 +1,63 @@
+header{
+    text-align: center;
+    background: lightgray;
+    padding: 20px 0;
+}
+
+main{
+    position: relative;
+    width:940px;
+    margin: 0 auto;
+}
+
+
+.caixa{
+    position: relative;
+    width:940px;
+    margin: 0 auto;
+}
+
+.imagemCondominio {
+    text-align: left;
+    background: lightgray;
+    padding: 10px;
+    padding-left: 100px;
+
+}
+footer{
+    text-align: center;
+    background: lightgray;
+    position: relative;
+    width:940px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav{
+    position: absolute;
+    top:100px;
+    right:100px;
+}
+
+nav li{
+    display: block;
+}
+
+nav a{
+    color: #000000;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    text-align: center;
+}
+.links li{
+    text-align: center;
+}
+.titulo{
+    color: #A52A2A;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    text-align: center;
+}
